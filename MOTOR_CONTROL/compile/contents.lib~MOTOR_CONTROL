@@ -1,0 +1,5 @@
+138
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 3 "./../src/HDL_Source/Verilog/MOTOR_CONTROL.v" 5 MOTOR_CONTROL
+~A 1 "./../src/HDL_Source/Verilog/MOTOR_CONTROL.v" 5 MOTOR_CONTROL

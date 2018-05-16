@@ -1,0 +1,1 @@
+ -u "C:\Aldec\Active-HDL 9.3\bin/systf.dll" -sv2k5  "C:\Users\blueb\OneDrive\STUDY\DSF_HOME\STEPPER\MOTOR_CONTROL\src\HDL_Source\Verilog\MOTOR_CONTROL.v"  -cs  -g 5  -r -li "C:\Users\blueb\OneDrive\STUDY\DSF_HOME\STEPPER\MOTOR_CONTROL\compile\MOTOR_CONTROL.epr" -p "C:\Users\blueb\OneDrive\STUDY\DSF_HOME\STEPPER\MOTOR_CONTROL\MOTOR_CONTROL"  -b "COOLRUNNERII" 

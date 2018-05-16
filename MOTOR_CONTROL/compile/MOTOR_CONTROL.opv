@@ -1,0 +1,1 @@
+ -erf "C:\Users\blueb\OneDrive\STUDY\DSF_HOME\STEPPER\MOTOR_CONTROL\compile\MOTOR_CONTROL.erf" -work MOTOR_CONTROL -lc C:/Users/blueb/OneDrive/STUDY/DSF_HOME/STEPPER/library.cfg -fl C:/Users/blueb/OneDrive/STUDY/DSF_HOME/STEPPER/MOTOR_CONTROL/projlib.cfg -o C:/Users/blueb/OneDrive/STUDY/DSF_HOME/STEPPER/MOTOR_CONTROL/compile -l "MOTOR_CONTROL" -sve   -O2 -l COOLRUNNERII
